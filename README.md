@@ -7,6 +7,6 @@ Since the early days of its inception, bitcoin has been plagued by the accusatio
 Because bitcoin is still so new, it is difficult to fathom where it has come from and where it will go. Here are a few tips for you and your loved ones when it comes to bitcoin and death:
 
 * **Consider bitcoin and honest money:** Consider what bitcoin is and means to you. Educate yourself and others about bitcoin and honest money. Death itself and the continuation of bitcoin limits bitcoin’s ability to be a ponzi.
-* **Think about life and death:** Nobody gets out of this alive. Sort yourself out. Think about death and what it means to you.
+* **Think about life and death:** Nobody gets out of this alive. Sort yourself out.
 * **Have a plan:** Spend every day like it might be your last and expect the unexpected. Plan for death with your loved ones through guided instruction and all of the existing legal tools at hand.
 * **Study and practice intentional security:** Your desire for security and self-directed monetary sovereignty may lead you to do nothing at all above and beyond how you already hold bitcoin. This is an entirely appropriate course of action, but could lead to unintended consequences such as theft or loss after death. Consider your needs. Through the proper application of technology, you can ensure the safe transfer or destruction of your digital wealth.
