@@ -1,13 +1,12 @@
-# CoinBurn
+# CoinBurn (a.k.a. CryptoCrematorium)
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec libero finibus, ornare lacus at, commodo enim. In nec dolor accumsan mauris porta malesuada non sit amet purus.
+Since the early days of its inception, bitcoin has been plagued by the accusation of being a ponzi scheme in which early users of the system are merely interested in being enriched by later adopters. **CRYPTO CREMATORIUM** seeks to dispel this misconception while helping to guide holders of bitcoin in their path to ensure that their economic power is appropriately gifted, or recycled through destruction after death.
 
-## Considerations
+Because bitcoin is still so new, it is difficult to fathom where it has come from and where it will go. Here are a few tips for you and your loved ones when it comes to bitcoin and death:
 
-Aliquam ac laoreet ligula, at dictum nisl. Suspendisse consectetur, nisl at dignissim aliquet, urna eros lacinia augue, ut semper tellus orci a ipsum.
-
-## Further Reading
-
-Vivamus bibendum ex eu justo malesuada ultricies. Donec pulvinar urna ac sem cursus convallis. Integer suscipit vel ex a suscipit. Pellentesque rutrum odio eu varius malesuada.
++**Consider bitcoin and honest money:** Consider what bitcoin is and means to you. Educate yourself and others about bitcoin and honest money. Death itself and the continuation of bitcoin limits bitcoin’s ability to be a ponzi.
++**Think about life and death:** Nobody gets out of this alive. Sort yourself out. Think about death and what it means to you.
++**Have a plan:** Spend every day like it might be your last and expect the unexpected. Plan for death with your loved ones through guided instruction and all of the existing legal tools at hand.
++**Practice security:** Your desire for security and self-directed monetary sovereignty could lead you to do nothing at all. This is an entirely appropriate course of action, but could lead to unintended consequences such as theft or loss after death. Through the proper application of technology, you can also ensure the safe transfer or destruction of your digital wealth.
