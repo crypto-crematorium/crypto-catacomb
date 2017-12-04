@@ -1,0 +1,2 @@
+#CoinBurn
+##Burning your coin
