@@ -15,7 +15,7 @@ Because bitcoin is still so new, it is difficult to fathom where it has come fro
 
 ## Contents
 
-* [**Honest Money**](security.md) 
+* [**Honest money**](security.md) 
 * [**Security**](security.md) 
 * [**Providing post-mortem instruction**](will.md) 
 
