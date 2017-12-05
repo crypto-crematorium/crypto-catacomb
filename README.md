@@ -11,11 +11,8 @@ Because bitcoin is still so new, it is difficult to fathom where it has come fro
 * **Have a plan:** Plan for death with your loved ones through guided instruction and all of the existing legal tools at hand. Consider contingencies.
 * **Study and practice intentional security:** Depending on your comfort level and desire for both security and self-directed monetary sovereignty, you may choose to do nothing at all above and beyond how you already hold bitcoin. This is an entirely appropriate course of action, but could potentially lead to unintended consequences such as theft or loss after death. Through the proper application of technology, you can ensure the safe transfer or destruction of your digital wealth.
 
-[Security primer](security.md)
 
-[Providing post-mortem instruction](will.md)
-
-
-[The case for burning](burning.md)
-
-[The eternal graveyard](crypt.md)
+* [Security primer](security.md)
+* [Providing post-mortem instruction](will.md)
+* [The case for burning](burning.md)
+* [The eternal graveyard](crypt.md)
