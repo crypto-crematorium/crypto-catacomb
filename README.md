@@ -15,7 +15,7 @@ Because bitcoin is still so new, it is difficult to fathom where it has come fro
 
 ## Contents
 
-[comment]: # (* [**Honest money**](security.md) * [**Bitcoin security**](security.md))
+<-- * [**Honest money**](security.md) * [**Bitcoin security**](security.md) -->
 
 * [**Providing post-mortem instruction**](will.md) 
 
