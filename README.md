@@ -4,7 +4,7 @@
 
 Since the early days of its inception, bitcoin has been plagued by the accusation of being a ponzi scheme in which early users of the system are merely interested in being enriched by later adopters. **CRYPTO CREMATORIUM** seeks to dispel this misconception while helping to guide holders of bitcoin in their path to ensure that their economic power is appropriately gifted, or recycled through destruction after death. 
 
-This page and the information within it does not seek to be seen or present any interest in destructive cults. Rather, it should be used as an introduction and primer on a new financial paradigm which is both intuitive and natural. Living in a world that has fully shifted to this emerging paradigm may eliminate the requirement for the information provided.
+This page and the information within it does not seek to be seen or present any interest in destructive cults. Rather, it should be used as an introduction and primer on a new financial paradigm which is both intuitive and natural.
 
 Because bitcoin is still so new, it is difficult to fathom where it has come from and where it will go. Here are a few general tips for you and your loved ones when it comes to bitcoin and death:
 
