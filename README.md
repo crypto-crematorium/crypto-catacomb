@@ -15,9 +15,7 @@ Because bitcoin is still so new, it is difficult to fathom where it has come fro
 
 ## Contents
 
-<-- * [**Honest money**](security.md) * [**Bitcoin security**](security.md) -->
-
-* [**Providing post-mortem instruction**](will.md) 
-
 * [**The case for burning**](burning.md)
 * [**The eternal graveyard**](crypt.md)
+
+* [**Providing post-mortem instruction**](will.md) 
